@@ -4,13 +4,13 @@ int main()
 {
 int choise;
 start_mean:
-printf("-------------------------------------\n");
+printf("--------------------------------------\n");
 printf("Welcome to use the simple toolbox\n");
 printf("Please choose a number from 1,2,3\n");
 printf("The 1 can reflect the Time now\n");
 printf("The 2 can list the all of the file under the booklet\n");
 printf("The 3 can log out the toolbox\n");
-printf("-------------------------------------\n");
+printf("--------------------------------------\n");
 scanf("%d",&choise);
 switch (choise)
 {
