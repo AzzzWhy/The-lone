@@ -1,14 +1,14 @@
-# My Learning Journey 🚀
 
-欢迎来到我的个人成长仓库！这里记录了我从零开始学习编程和数学建模的过程。
+
+欢迎来到我的个人仓库，这里记录了我从零开始学习编程和其他的过程。
 
 ## 💻 当前环境
 - **Hardware:** MacBook Air M4 (24GB RAM)
-- **Languages:** C（26.3.10）
-- **Tools:**Git，VScode
+- **Languages:** C，C#（26.3.10）
+- **Tools:**Git，VScode，UE5，VSstdio
 
 ## 📂 项目说明
-这个仓库目前包含了我初学 C 语言时的练习代码：
+这个仓库目前包含了我初学 C和其他 语言时的练习代码：
 - hello.c是作为测试工具，目的是作为测试环境与工具的简单代码
 - 111.c是作为测试git与git graph的工具，无实际内容
 
